@@ -1,0 +1,61 @@
+/home/boat/.virtualenvs/MxShop/lib/python3.6/site-packages/djcelery/loaders.py:189: UserWarning: Autodiscover: Error importing users.apps.UsersConfig.tasks: ModuleNotFoundError("No module named 'users.apps.UsersConfig'; 'users.apps' is not a package",)
+  app, related_name, exc,
+/home/boat/.virtualenvs/MxShop/lib/python3.6/site-packages/djcelery/loaders.py:189: UserWarning: Autodiscover: Error importing goods.apps.GoodsConfig.tasks: ModuleNotFoundError("No module named 'goods.apps.GoodsConfig'; 'goods.apps' is not a package",)
+  app, related_name, exc,
+/home/boat/.virtualenvs/MxShop/lib/python3.6/site-packages/djcelery/loaders.py:189: UserWarning: Autodiscover: Error importing user_operation.apps.UserOperationConfig.tasks: ModuleNotFoundError("No module named 'user_operation.apps.UserOperationConfig'; 'user_operation.apps' is not a package",)
+  app, related_name, exc,
+/home/boat/.virtualenvs/MxShop/lib/python3.6/site-packages/djcelery/loaders.py:189: UserWarning: Autodiscover: Error importing trade.apps.TradeConfig.tasks: ModuleNotFoundError("No module named 'trade.apps.TradeConfig'; 'trade.apps' is not a package",)
+  app, related_name, exc,
+[I 190227 15:15:26 command:139] Visit me at http://localhost:5555
+[I 190227 15:15:26 command:144] Broker: redis://localhost:6379/1
+[I 190227 15:15:26 command:147] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course_task',
+     'send_sms_task']
+[I 190227 15:15:27 mixins:231] Connected to redis://localhost:6379/1
+[W 190227 15:15:30 control:44] 'stats' inspect method failed
+[W 190227 15:15:30 control:44] 'active_queues' inspect method failed
+[W 190227 15:15:30 control:44] 'registered' inspect method failed
+[W 190227 15:15:30 control:44] 'scheduled' inspect method failed
+[W 190227 15:15:30 control:44] 'active' inspect method failed
+[W 190227 15:15:30 control:44] 'reserved' inspect method failed
+[W 190227 15:15:30 control:44] 'revoked' inspect method failed
+[W 190227 15:15:30 control:44] 'conf' inspect method failed
+[I 190227 15:16:09 command:47] SIGTERM detected, shutting down
+/home/boat/.virtualenvs/MxShop/lib/python3.6/site-packages/djcelery/loaders.py:189: UserWarning: Autodiscover: Error importing users.apps.UsersConfig.tasks: ModuleNotFoundError("No module named 'users.apps.UsersConfig'; 'users.apps' is not a package",)
+  app, related_name, exc,
+/home/boat/.virtualenvs/MxShop/lib/python3.6/site-packages/djcelery/loaders.py:189: UserWarning: Autodiscover: Error importing goods.apps.GoodsConfig.tasks: ModuleNotFoundError("No module named 'goods.apps.GoodsConfig'; 'goods.apps' is not a package",)
+  app, related_name, exc,
+/home/boat/.virtualenvs/MxShop/lib/python3.6/site-packages/djcelery/loaders.py:189: UserWarning: Autodiscover: Error importing user_operation.apps.UserOperationConfig.tasks: ModuleNotFoundError("No module named 'user_operation.apps.UserOperationConfig'; 'user_operation.apps' is not a package",)
+  app, related_name, exc,
+/home/boat/.virtualenvs/MxShop/lib/python3.6/site-packages/djcelery/loaders.py:189: UserWarning: Autodiscover: Error importing trade.apps.TradeConfig.tasks: ModuleNotFoundError("No module named 'trade.apps.TradeConfig'; 'trade.apps' is not a package",)
+  app, related_name, exc,
+[I 190227 15:18:21 command:139] Visit me at http://localhost:5555
+[I 190227 15:18:21 command:144] Broker: redis://localhost:6379/1
+[I 190227 15:18:21 command:147] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'course_task',
+     'send_sms_task']
+[I 190227 15:18:21 mixins:231] Connected to redis://localhost:6379/1
+[W 190227 15:18:24 control:44] 'stats' inspect method failed
+[W 190227 15:18:24 control:44] 'active_queues' inspect method failed
+[W 190227 15:18:24 control:44] 'registered' inspect method failed
+[W 190227 15:18:24 control:44] 'scheduled' inspect method failed
+[W 190227 15:18:24 control:44] 'active' inspect method failed
+[W 190227 15:18:24 control:44] 'reserved' inspect method failed
+[W 190227 15:18:24 control:44] 'revoked' inspect method failed
+[W 190227 15:18:24 control:44] 'conf' inspect method failed

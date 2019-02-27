@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-15 18:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: apps/user_operation/views.py:22
+msgid "Welcome to my site123"
+msgstr "好123"
+
+#: apps/user_operation/views.py:38
+msgid "Monday"
+msgstr ""
+
+#: apps/user_operation/views.py:38
+msgid "Tuesday"
+msgstr ""
+
+#: apps/user_operation/views.py:38
+msgid "Wednesday"
+msgstr ""
+
+#: apps/user_operation/views.py:38
+msgid "Thursday"
+msgstr ""
+
+#: apps/user_operation/views.py:38
+msgid "Friday"
+msgstr ""
+
+#: apps/user_operation/views.py:38
+msgid "Saturday"
+msgstr ""
+
+#: apps/user_operation/views.py:38 apps/user_operation/views.py:53
+msgid "Sunday"
+msgstr ""
+
+#: apps/user_operation/views.py:74
+#, python-format
+msgid "There is %(count)d  object available."
+msgid_plural "There are %(count)d  objects available."
+msgstr[0] ""
+msgstr[1] ""
