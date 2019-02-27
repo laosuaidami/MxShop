@@ -148,4 +148,4 @@ ap_mode/.vscode
 
 migrations/
 logs/*
-.idea/workspace.xml
+workspace.xml
