@@ -127,3 +127,8 @@ You must only enable the serializers that you will actually use.
 [2019-02-27 16:55:31,640: WARNING/Worker-2] args=(2, 8), kwargs={}
 [2019-02-27 16:55:31,640: WARNING/Worker-2] end course task
 [2019-02-27 16:55:31,643: INFO/MainProcess] Task course_task[60a636e7-b25e-47cd-a12c-daab04dd5c00] succeeded in 4.009008402004838s: None
+[2019-02-27 17:05:27,741: INFO/MainProcess] Received task: course_task[3a45bf96-397e-4bac-b1f9-a39606bd3fc6]
+[2019-02-27 17:05:27,751: WARNING/Worker-3] start course task
+[2019-02-27 17:05:31,754: WARNING/Worker-3] args=(2, 8), kwargs={}
+[2019-02-27 17:05:31,755: WARNING/Worker-3] end course task
+[2019-02-27 17:05:31,758: INFO/MainProcess] Task course_task[3a45bf96-397e-4bac-b1f9-a39606bd3fc6] succeeded in 4.006732607005688s: None

@@ -28,3 +28,4 @@ Stale pidfile exists. Removing it.
 [2019-02-27 16:35:27,459: INFO/MainProcess] Scheduler: Sending due task task1 (course_task)
 [2019-02-27 16:45:27,551: INFO/MainProcess] Scheduler: Sending due task task1 (course_task)
 [2019-02-27 16:55:27,626: INFO/MainProcess] Scheduler: Sending due task task1 (course_task)
+[2019-02-27 17:05:27,711: INFO/MainProcess] Scheduler: Sending due task task1 (course_task)
